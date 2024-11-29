@@ -23,5 +23,5 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/zoe-bot.git
+git clone https://github.com/theuxieofc/ZOE-BOT.git
 cd zoe-bot
